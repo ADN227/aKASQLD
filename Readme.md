@@ -15,7 +15,7 @@ Una forma de hacer esto es usando un script desde ```Cloud Shell```, en este cas
 Dentro de los mensajes del script se muestra información sobre los recursos que se crearon en Azure.
 ![](https://akncus.blob.core.windows.net/git/8/K_099.jpg)
 
-Una vez creados los recursos, podemos ver los recursos dentro del grupo de recursos que se indica en los mensajes del script como ```"resourceGroup"```en Cloud Shell.
+Una vez creados los recursos, podemos ver los recursos dentro del grupo de recursos que se indica en los mensajes del script como **resourceGroup** en Cloud Shell.
 ![](https://akncus.blob.core.windows.net/git/8/K_100.jpg)
 
 Dentro de la base de datos SQL, en la sección **Redes** necesitamos agregar una una dirección IP en la sección ```Reglas de firewall``` para que podamos acceder a la base de datos.
